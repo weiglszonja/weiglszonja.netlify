@@ -23,7 +23,7 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: https://gitconnected.com/weiglszonja/resume
+    url: uploads/resume.pdf
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.

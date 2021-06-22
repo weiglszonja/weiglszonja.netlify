@@ -53,9 +53,6 @@ social:
   - link: https://www.facebook.com/wszonja
     icon_pack: fab
     icon: facebook
-  - icon: cv
-    icon_pack: ai
-    link: static/uploads/resume.pdf
     
 # Alternatively, use `google-scholar` icon from `ai` icon pack
 
@@ -88,4 +85,4 @@ and reproducibility. I try to push my boundaries, learn new technologies and
 remember to look up at the stars and not down at my feet.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
