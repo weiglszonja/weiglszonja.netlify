@@ -11,7 +11,7 @@ role: Engineer
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Lyon Neuroscience Research Center (CRNL)
-  url: https://crnl.univ-lyon1.fr/index.php/en
+  url: https://www.crnl.fr/fr/equipe/memo-idex-fellowship
 
 # Short bio (displayed in user profile at end of posts)
 bio: Neuroscience enthusiast with Data Engineering background
@@ -70,9 +70,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I currently work as an Engineer at CRNL, building EEG data processing and
-analysis pipelines for a research group interested in probabilistic learning (
-[MemoTeam](https://www.memoteam.org/team-members)).
+I currently work as an Engineer at [CRNL](https://www.crnl.fr/fr/equipe/memo-idex-fellowship), 
+building EEG data processing and analysis pipelines for the [Memo](https://www.memoteam.org/)
+Team interested in probabilistic learning.
 
 I have a solid programming background in Python, that comes from 2+ years of
 working in industry experience. During that period I learnt the principles

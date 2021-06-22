@@ -20,27 +20,6 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: wszonja@gmail.com
-address:
-  city: Budapest
-  country: Hungary
-  country_code: HU
-contact_links:
-  - icon: github
-    icon_pack: fab
-    link: 'https://github.com/weiglszonja'
-  - icon: linkedin
-    icon_pack: fas
-    link: 'https://www.linkedin.com/in/weiglszonja/'
-  - icon: brain
-    icon_pack: fas
-    link: 'https://www.memoteam.org/'
-  - icon: instagram
-    icon_pack: fab
-    link: 'https://www.instagram.com/szonjaweigl/'
-  - icon: facebook
-    icon_pack: fab
-    link: 'https://www.facebook.com/wszonja'
 
 # Site header
 
