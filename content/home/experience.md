@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Ingénieur d'Étude
     company: Centre de Recherche en Neurosciences de Lyon (CRNL)
-    company_url: 'https://crnl.univ-lyon1.fr'
+    company_url: 'https://www.crnl.univ-lyon1.fr'
     company_logo: crnl
     location: Lyon, France
     date_start: '2019-11-01'
@@ -36,14 +36,50 @@ experience:
         * Functional connectivity analyses
         * Statistical analyses
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Data Scientist
+    company: CatalystNeuro
+    company_url: 'https://www.catalystneuro.com/mission/'
+    company_logo: catalyst
+    location: Remote
+    date_start: '2020-11-01'
+    date_end: ''
+    description: At CatalystNeuro we work closely with neuroscientists to help them standardize the way they are storing, processing, and visualizing their data. We use state-of-the-art tools to ensure that neuroscience is accessible and shared across the international community.
+
+  - title: Junior Data Engineer
+    company: RealEyes
+    company_url: 'https://www.realeyesit.com'
+    company_logo: realeyes
+    location: Budapest, Hungary
+    date_start: '2018-09-01'
+    date_end: '2019-11-01'
+    description: My role within the R&D team was to integrate datasets into our databases and improving our data visualization tool. I collaborated with other teams to build a scalable storage system on AWS.
+
+  - title: Junior Software Engineer
+    company: Synetiq
+    company_url: 'https://www.synetiq.net'
+    company_logo: synetiq
+    location: Budapest, Hungary
+    date_start: '2017-12-01'
+    date_end: '2018-09-01'
+    description: I was focusing on data processing pipeline development and testing in Python. For an independent research project, I learnt how to cluster emotional responses to find groups of people with similar response profiles.
+    
+  - title: Junior Research Manager
+    company: Synetiq
+    company_url: 'https://www.synetiq.net'
+    company_logo: synetiq
+    location: Budapest, Hungary
+    date_start: '2017-06-01'
+    date_end: '2017-12-01'
+    description: Manage, organize and participate in monthly measurement weeks, supervise and train research assistants.
+    
+  - title: Laboratory Supervisor
+    company: Synetiq
+    company_url: 'https://www.synetiq.net'
+    company_logo: synetiq
+    location: Budapest, Hungary
+    date_start: '2016-09-01'
+    date_end: '2017-06-01'
+    description: articipate in monthly measurement weeks, manage and help out research assistants with applying biometric sensors.
 
 design:
   columns: '2'
