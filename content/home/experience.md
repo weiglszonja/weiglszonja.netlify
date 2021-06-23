@@ -22,19 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Ingénieur d'Étude
+    company: Centre de Recherche en Neurosciences de Lyon (CRNL)
+    company_url: 'https://crnl.univ-lyon1.fr'
+    company_logo: crnl
+    location: Lyon, France
+    date_start: '2019-11-01'
     date_end: ''
-    description: |2-
+    description: |2-  
+    I work as an engineer in a research team aiming to understand the cognitive
+    neuroscience and neuropsychology behind implicit statistical learning.
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Neural time series data processing
+        * Functional connectivity analyses
+        * Statistical analyses
         
   - title: Professor of Semiconductor Physics
     company: University X
