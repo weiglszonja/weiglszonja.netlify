@@ -79,7 +79,7 @@ experience:
     location: Budapest, Hungary
     date_start: '2016-09-01'
     date_end: '2017-06-01'
-    description: articipate in monthly measurement weeks, manage and help out research assistants with applying biometric sensors.
+    description: Participate in monthly measurement weeks, manage and help out research assistants with applying biometric sensors.
 
 design:
   columns: '2'
