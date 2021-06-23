@@ -29,9 +29,7 @@ experience:
     location: Lyon, France
     date_start: '2019-11-01'
     date_end: ''
-    description: |2-  
-    I work as an engineer in a research team aiming to understand the cognitive
-    neuroscience and neuropsychology behind implicit statistical learning.
+    description: |2-
         Responsibilities include:
         
         * Neural time series data processing
